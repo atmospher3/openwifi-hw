@@ -21,6 +21,8 @@ if [ "$BOARD_NAME" == "zcu102_fmcs2" ]; then
     ADI_PROJECT_DIR=./adi-hdl/projects/fmcomms2/zcu102/
 elif [ "$BOARD_NAME" == "zcu102_9371" ]; then
     ADI_PROJECT_DIR=./adi-hdl/projects/fmcomms2/zcu102/
+elif [ "$BOARD_NAME" == "zusdr_mini" ]; then
+    ADI_PROJECT_DIR=./adi-hdl/projects/fmcomms2/zcu102/
 elif [ "$BOARD_NAME" == "zc706_fmcs2" ]; then
     ADI_PROJECT_DIR=./adi-hdl/projects/fmcomms2/zc706/
 elif [ "$BOARD_NAME" == "zc702_fmcs2" ]; then

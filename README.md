@@ -31,6 +31,7 @@ Environment variable **BOARD_NAME** options:
 - **antsdr_e200** ([MicroPhase](https://github.com/MicroPhase/) enhanced ADALM-PLUTO SDR (smaller/cheaper). [Notes](boards/antsdr_e200/README.md)) -- Vivado license **NOT** needed
 - **sdrpi** ([HexSDR](https://github.com/hexsdr/) SDR in Raspberry Pi size [Notes](boards/sdrpi/notes.md)) -- Vivado license **NOT** needed
 - **neptunesdr** Low cost Zynq 7020 + AD9361 board -- Vivado license **NOT** needed
+- **zusdr_mini** (XCZU3EG + AD9361 board, similar to zcu102_fmcs2)
 - **zcu102_fmcs2** ([Xilinx ZCU102 board](https://www.xilinx.com/products/boards-and-kits/ek-u1-zcu102-g.html) + [FMCOMMS2/3/4](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/eval-ad-fmcomms2.html))
 
 ## Build FPGA
